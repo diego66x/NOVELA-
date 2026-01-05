@@ -1,0 +1,5 @@
+{
+  "name": "StreamFlex",
+  "description": "A fully responsive streaming platform inspired by Netflix with customizable content, resume-watching capabilities, and support for movies and series.",
+  "requestFramePermissions": []
+}
